@@ -1,4 +1,7 @@
-# files
+# python sys files
+**/__pycache__
+
+# assets
 *.html
 
 # folder
