@@ -96,5 +96,5 @@
         }
     },
     "features": {},
-    "postCreateCommand": "bash install-dependencies.sh"
+    "postCreateCommand": "bash .devcontainer/install-dependencies.sh"
 }
